@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 40" fill="none">
+  <rect x="2" y="2" width="36" height="36" rx="10" fill="#141d28" stroke="rgba(108,151,198,0.45)" stroke-width="1.5"/>
+  <path d="M12 28L20 12L28 28M15 23H25" stroke="#9fcafc" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="28" cy="13" r="2.2" fill="#f2bd6f"/>
+  <text x="48" y="25" font-family="'Newsreader', Georgia, serif" font-size="20" font-weight="600" font-style="italic" fill="#ffffff" letter-spacing="-0.02em">Abikumar</text>
+</svg>
